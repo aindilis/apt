@@ -1,5 +1,6 @@
 APT
 
+Auto (Pre|Post)processing Tool
 
 APT is a system for cleaning text input.
 

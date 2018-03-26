@@ -43,7 +43,7 @@ EXAMPLES
 Here is an example of the current history log file format.  As you can
 see it is clear which functions are making which changes.  
 
-https://raw.githubusercontent.com/aindilis/apt/naster/README.md
+https://raw.githubusercontent.com/aindilis/apt/master/README.md
 
 <item>
 	<record value="Internetbased" methods="c">
